@@ -1,0 +1,38 @@
+{
+  "time": "2026-11-16T12:42:53.425397-05:00",
+  "pid": 1249243,
+  "mode": "forward_paper_only",
+  "cash": 25.0,
+  "net_equity_estimated": 25.0,
+  "realized": 0,
+  "unrealized_estimated": 0,
+  "positions": 0,
+  "seen": 40,
+  "preview_ok": true,
+  "last_preview": 1794850973.0722444,
+  "probe": {
+    "time": "2026-11-16T12:42:53.424233-05:00",
+    "market": {
+      "price": 0.002657,
+      "liquidity": 291089.7,
+      "volume": 205087.79,
+      "pool": "FJk9sajdc2Q4heRPPu3yLzkmf2ZByZkpiHQLv9e2bn5A",
+      "observed": 1794850973.1355166,
+      "freshness": "request-time only; provider quote timestamp unavailable"
+    },
+    "safety_errors": [],
+    "historical_mint_never_traded": true
+  },
+  "entry_readiness": "conditional: fresh direct/safely linked mint calls; exact Solana market and safety metadata identity verification; all gates required; no executable sell quote",
+  "adds": "disabled: no flow/holder history",
+  "global_loss_limit": "not specified",
+  "quote_limit": "provider quote timestamps unavailable; marks are estimates",
+  "local_alerts_only": true,
+  "rule_version": 4,
+  "target_equity": 250,
+  "target_progress": 0.1,
+  "completed_positions": 0,
+  "started": "2026-11-07T13:54:12.285337-05:00",
+  "last_new_post": "2026-11-15T20:18:18+00:00",
+  "entry_count": 0
+}

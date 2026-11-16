@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.lock
+*.pid
+*.log
+hl/data/skips.jsonl

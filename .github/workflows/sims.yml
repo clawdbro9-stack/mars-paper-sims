@@ -1,0 +1,22 @@
+name: paper-sims
+on:
+  schedule:
+    - cron: "0 * * * *"     # hourly: keeps one run queued behind the active one
+  workflow_dispatch: {}
+concurrency:
+  group: paper-sims
+  cancel-in-progress: false  # never kill the active run; the newest cron run waits as "pending"
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 358
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests tzdata
+      - name: run sims (~5h50m), commit state every 5 min and at exit
+        env: { TZ: America/Bogota, RUN_SECONDS: "20700", RUN_URL: "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" }
+        run: python3 runner.py
