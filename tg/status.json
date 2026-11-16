@@ -1,6 +1,6 @@
 {
-  "time": "2026-11-16T12:42:53.425397-05:00",
-  "pid": 1249243,
+  "time": "2026-11-16T12:44:38.442926-05:00",
+  "pid": 2262,
   "mode": "forward_paper_only",
   "cash": 25.0,
   "net_equity_estimated": 25.0,
@@ -9,7 +9,7 @@
   "positions": 0,
   "seen": 40,
   "preview_ok": true,
-  "last_preview": 1794850973.0722444,
+  "last_preview": 1794851038.4299693,
   "probe": {
     "time": "2026-11-16T12:42:53.424233-05:00",
     "market": {
