@@ -2951,3 +2951,8 @@
 {"time": "2026-11-16T21:10:13.244108-05:00", "kind": "new_post_classified", "id": 9822, "fields": {"kind": "observe", "mints": [], "tickers": [], "negated": false, "recap": false, "pairs": []}, "evidence": {"id": 9822, "timestamp": "2026-11-17T02:09:19+00:00", "text": "Shill me low caps", "reply_to": null, "reply_text": "", "links": [], "fingerprint": "1ddf9c1df189e9df8935c7e998988f4c30840e761a36b520b856fb176c434025", "edited": false, "media_flags": {"photo": false, "video": false, "unsupported": false}}, "age_seconds": 53.30417990684509, "fresh_entry_eligible": true}
 {"time": "2026-11-16T21:10:13.244503-05:00", "kind": "skip_or_pending_link", "id": 9822, "reason": "no_unambiguous_fresh_whitelisted_action"}
 {"time": "2026-11-16T21:11:14.174391-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
+{"time": "2026-11-16T21:12:15.394025-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
+{"time": "2026-11-16T21:13:16.338125-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
+{"time": "2026-11-16T21:14:17.270316-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
+{"time": "2026-11-16T21:15:18.211360-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
+{"time": "2026-11-16T21:16:19.153107-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
