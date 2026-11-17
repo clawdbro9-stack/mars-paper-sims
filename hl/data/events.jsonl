@@ -2603,3 +2603,6 @@
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794929771.517, "ts": "2026-11-17 10:36:11 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794929831.535, "ts": "2026-11-17 10:37:11 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794929891.553, "ts": "2026-11-17 10:38:11 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794929951.57, "ts": "2026-11-17 10:39:11 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794930011.588, "ts": "2026-11-17 10:40:11 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
+{"event": "stop", "pid": 2393, "t": 1794930031.594, "ts": "2026-11-17 10:40:31 -05"}
