@@ -11,14 +11,15 @@
  "halted": false,
  "last_loss_t": null,
  "last_scan_candle": {},
- "last_scan_completed": 1794919032.4174879,
+ "last_scan_completed": 1794919337.66517,
  "last_scan_universe": [
   "BTC",
   "ETH",
   "HYPE",
   "ZEC",
   "SOL",
-  "LIT"
+  "LIT",
+  "NEAR"
  ],
  "launched": 1794584748.4299784,
  "losses": 0,
@@ -39,16 +40,16 @@
  },
  "scalp_last_candle": {
   "ASTER": 1794863039999,
-  "BTC": 1794919019999,
-  "ETH": 1794919019999,
-  "HYPE": 1794919019999,
-  "LIT": 1794919019999,
-  "NEAR": 1794918839999,
+  "BTC": 1794919319999,
+  "ETH": 1794919319999,
+  "HYPE": 1794919319999,
+  "LIT": 1794919319999,
+  "NEAR": 1794919319999,
   "PUMP": 1794711839999,
-  "SOL": 1794919019999,
+  "SOL": 1794919319999,
   "XMR": 1794911639999,
   "XRP": 1794857639999,
-  "ZEC": 1794919019999
+  "ZEC": 1794919319999
  },
  "seen_signals": [],
  "strategy": "scalp_momentum_v4",
