@@ -4,7 +4,7 @@
  "equity": 25.0,
  "halted": false,
  "last_new_post": "2026-11-16T15:04:29+00:00",
- "last_preview": "2026-11-17 06:31:55 -05",
+ "last_preview": "2026-11-17 06:36:17 -05",
  "losses": 0,
  "n_positions": 0,
  "pid": 3273,
@@ -14,10 +14,10 @@
  "realized": 0.0,
  "status": "ok",
  "strategy": "macro_social_arb_v1",
- "t": 1794915115.9594653,
+ "t": 1794915377.8760436,
  "target_3x": 75.0,
  "target_equity": 50.0,
  "trades": 0,
- "ts": "2026-11-17 06:31:55 -05",
+ "ts": "2026-11-17 06:36:17 -05",
  "wins": 0
 }
