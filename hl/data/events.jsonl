@@ -2417,3 +2417,8 @@
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1794918617.294, "ts": "2026-11-17 07:30:17 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT", "NEAR"]}
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1794918677.312, "ts": "2026-11-17 07:31:17 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT", "NEAR"]}
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1794918732.329, "ts": "2026-11-17 07:32:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT", "NEAR"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1794918792.346, "ts": "2026-11-17 07:33:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT", "NEAR"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1794918852.365, "ts": "2026-11-17 07:34:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT", "NEAR"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794918912.382, "ts": "2026-11-17 07:35:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794918972.4, "ts": "2026-11-17 07:36:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 6, "t": 1794919032.417, "ts": "2026-11-17 07:37:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "LIT"]}
