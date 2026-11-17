@@ -2944,3 +2944,10 @@
 {"time": "2026-11-16T21:04:07.200114-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9821}
 {"time": "2026-11-16T21:05:08.141699-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9821}
 {"time": "2026-11-16T21:06:09.082785-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9821}
+{"time": "2026-11-16T21:07:10.390799-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9821}
+{"time": "2026-11-16T21:08:11.331789-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9821}
+{"time": "2026-11-16T21:09:12.287516-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9821}
+{"time": "2026-11-16T21:10:13.243358-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
+{"time": "2026-11-16T21:10:13.244108-05:00", "kind": "new_post_classified", "id": 9822, "fields": {"kind": "observe", "mints": [], "tickers": [], "negated": false, "recap": false, "pairs": []}, "evidence": {"id": 9822, "timestamp": "2026-11-17T02:09:19+00:00", "text": "Shill me low caps", "reply_to": null, "reply_text": "", "links": [], "fingerprint": "1ddf9c1df189e9df8935c7e998988f4c30840e761a36b520b856fb176c434025", "edited": false, "media_flags": {"photo": false, "video": false, "unsupported": false}}, "age_seconds": 53.30417990684509, "fresh_entry_eligible": true}
+{"time": "2026-11-16T21:10:13.244503-05:00", "kind": "skip_or_pending_link", "id": 9822, "reason": "no_unambiguous_fresh_whitelisted_action"}
+{"time": "2026-11-16T21:11:14.174391-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9822}
