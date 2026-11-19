@@ -5306,3 +5306,8 @@
 {"time": "2026-11-19T03:12:29.335961-05:00", "kind": "new_post_classified", "id": 9824, "fields": {"kind": "observe", "mints": ["7TnXXR1ytJ9PZDxgSA8VwbyKmEWZmiA2YAn55YyVpump"], "tickers": ["TRADERS"], "negated": false, "recap": false, "pairs": []}, "evidence": {"id": 9824, "timestamp": "2026-11-19T07:08:10+00:00", "text": " $Traders   7TnXXR1ytJ9PZDxgSA8VwbyKmEWZmiA2YAn55YyVpump  35k", "reply_to": null, "reply_text": "", "links": [], "fingerprint": "603a9304d04fe970f9d5c9848ec1ce416bd5b311c442d9b0ff363ac4728d138d", "edited": false, "media_flags": {"photo": false, "video": false, "unsupported": false}}, "age_seconds": 3858.655671596527, "fresh_entry_eligible": false}
 {"time": "2026-11-19T03:12:29.336364-05:00", "kind": "skip_or_pending_link", "id": 9824, "reason": "no_unambiguous_fresh_whitelisted_action"}
 {"time": "2026-11-19T03:13:30.321805-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9824}
+{"time": "2026-11-19T03:14:30.953058-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9824}
+{"time": "2026-11-19T03:15:31.586425-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9824}
+{"time": "2026-11-19T03:16:32.222489-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9824}
+{"time": "2026-11-19T03:17:32.876766-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9824}
+{"time": "2026-11-19T03:18:33.829179-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9824}
