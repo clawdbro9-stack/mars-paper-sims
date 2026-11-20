@@ -3,7 +3,7 @@
  "bet": "$6, max 4 positions",
  "cash": 25.0,
  "last_new_post": "2026-11-20T16:00:51+00:00",
- "last_preview": "2026-11-20 15:04:49 -05",
+ "last_preview": "2026-11-20 15:18:14 -05",
  "local_alerts_only": true,
  "losses": 0,
  "mode": "forward_paper_only",
@@ -17,7 +17,7 @@
  "started": "2026-11-13 10:45:03 -05",
  "stock_hours": "US RTH only, 1x, Yahoo public chart",
  "target_equity": 50.0,
- "time": "2026-11-20T15:06:50.008412-05:00",
+ "time": "2026-11-20T15:20:17.577342-05:00",
  "trades": 0,
  "wins": 0
 }
