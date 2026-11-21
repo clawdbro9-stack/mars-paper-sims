@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-21T12:38:59.463776-05:00",
+  "time": "2026-11-21T12:40:20.282079-05:00",
   "pid": 2232,
   "mode": "forward_paper_only",
   "cash": 25.0,
@@ -9,7 +9,7 @@
   "positions": 0,
   "seen": 45,
   "preview_ok": true,
-  "last_preview": 1795282704.4527082,
+  "last_preview": 1795282765.2641141,
   "probe": {
     "time": "2026-11-21T12:35:22.074314-05:00",
     "market": {
