@@ -7370,3 +7370,8 @@
 {"time": "2026-11-21T06:55:22.843394-05:00", "kind": "new_post_classified", "id": 9826, "fields": {"kind": "observe", "mints": [], "tickers": [], "negated": false, "recap": false, "pairs": []}, "evidence": {"id": 9826, "timestamp": "2026-11-21T05:40:50+00:00", "text": "We are so fucked   \ud83d\udc80    \ud83d\udc80    \ud83d\udc80  ", "reply_to": null, "reply_text": "", "links": [], "fingerprint": "37331b735ad0849335f72d7cbb9b4bd5df4633bb272a7a24ccaa8cbc6835341f", "edited": false, "media_flags": {"photo": true, "video": false, "unsupported": false}}, "age_seconds": 22472.069746494293, "fresh_entry_eligible": false}
 {"time": "2026-11-21T06:55:22.843683-05:00", "kind": "skip_or_pending_link", "id": 9826, "reason": "no_unambiguous_fresh_whitelisted_action"}
 {"time": "2026-11-21T06:56:23.946210-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9826}
+{"time": "2026-11-21T06:57:24.735073-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9826}
+{"time": "2026-11-21T06:58:25.525804-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9826}
+{"time": "2026-11-21T06:59:26.309056-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9826}
+{"time": "2026-11-21T07:00:27.094720-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9826}
+{"time": "2026-11-21T07:01:28.332128-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9826}
