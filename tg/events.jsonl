@@ -8401,3 +8401,8 @@
 {"time": "2026-11-22T07:56:54.013584-05:00", "kind": "new_post_classified", "id": 9827, "fields": {"kind": "observe", "mints": [], "tickers": [], "negated": false, "recap": false, "pairs": []}, "evidence": {"id": 9827, "timestamp": "2026-11-22T12:27:25+00:00", "text": "Gm bros", "reply_to": null, "reply_text": "", "links": [], "fingerprint": "9f7cff56aab6b2d55510d1e31e5d894fb990c016bdceb834708d44b72d2fb289", "edited": false, "media_flags": {"photo": false, "video": false, "unsupported": false}}, "age_seconds": 1768.3222439289093, "fresh_entry_eligible": false}
 {"time": "2026-11-22T07:56:54.013846-05:00", "kind": "skip_or_pending_link", "id": 9827, "reason": "no_unambiguous_fresh_whitelisted_action"}
 {"time": "2026-11-22T07:57:55.115750-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9827}
+{"time": "2026-11-22T07:58:55.771237-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9827}
+{"time": "2026-11-22T07:59:56.431080-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9827}
+{"time": "2026-11-22T08:00:57.134559-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9827}
+{"time": "2026-11-22T08:01:57.821230-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9827}
+{"time": "2026-11-22T08:02:58.898271-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9827}
