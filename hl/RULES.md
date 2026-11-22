@@ -55,3 +55,6 @@ Local JSONL alerts only. Supervisor is not reboot-persistent.
   (HL 1m candles, next 5 min): 6/13 had more favorable than adverse excursion, avg 5-min result -0.076% price before ~0.13% round-trip costs.
   Loosening volume to 3x would have added losing trades, so it was rejected. Uptime gaps (largest 00:11-07:39 Bogota) were box/process pauses
   with the process still alive, not a rule issue. Restarted supervisor cleanly (one instance).
+- 22 Nov 2026 10:45 Bogota (first review on GitHub Actions): 0 trades in 24h, 0W/0L, P&L $0.00, equity $25.00. No losses to target, so v4 kept unchanged (no version bump).
+  Evidence: 974 scans, 34 raw breakout candidates, none passed the entry gates. Skip reasons are not in the repo (hl/data/skips.jsonl is gitignored), so no evidence supports loosening any gate.
+  Uptime gaps between Actions runs: 19:15-01:02 and 06:47-07:56 Bogota (scheduled cron handoff delays). Latest run 45024878356 alive, heartbeat 10:39 Bogota.
