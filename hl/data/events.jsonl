@@ -7828,3 +7828,5 @@
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 5, "t": 1795372693.565, "ts": "2026-11-22 13:38:13 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL"]}
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 5, "t": 1795372753.586, "ts": "2026-11-22 13:39:13 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL"]}
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 5, "t": 1795372813.615, "ts": "2026-11-22 13:40:13 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 5, "t": 1795372873.636, "ts": "2026-11-22 13:41:13 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL"]}
+{"event": "stop", "pid": 2234, "t": 1795372923.657, "ts": "2026-11-22 13:42:03 -05"}
