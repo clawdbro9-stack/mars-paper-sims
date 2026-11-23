@@ -58,3 +58,6 @@ Local JSONL alerts only. Supervisor is not reboot-persistent.
 - 22 Nov 2026 10:45 Bogota (first review on GitHub Actions): 0 trades in 24h, 0W/0L, P&L $0.00, equity $25.00. No losses to target, so v4 kept unchanged (no version bump).
   Evidence: 974 scans, 34 raw breakout candidates, none passed the entry gates. Skip reasons are not in the repo (hl/data/skips.jsonl is gitignored), so no evidence supports loosening any gate.
   Uptime gaps between Actions runs: 19:15-01:02 and 06:47-07:56 Bogota (scheduled cron handoff delays). Latest run 45024878356 alive, heartbeat 10:39 Bogota.
+- 23 Nov 2026 10:45 Bogota: 0 trades in 24h, 0W/0L, P&L $0.00, equity $25.00. No losses to target, so v4 kept unchanged (no version bump).
+  Evidence: 865 scans, 26 raw breakout candidates, none passed the entry gates; skip reasons still not committed, so no evidence supports loosening any gate.
+  Uptime gaps in committed scans: 13:41-15:07 and 20:51-05:00 Bogota (8h hole, likely Actions handoff/state sync). Latest run 45152089385 alive, heartbeat 10:39 Bogota.
