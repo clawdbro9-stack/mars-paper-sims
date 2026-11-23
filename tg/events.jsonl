@@ -9090,3 +9090,8 @@
 {"time": "2026-11-23T05:00:25.591160-05:00", "kind": "new_post_classified", "id": 9828, "fields": {"kind": "call", "mints": [], "tickers": [], "negated": false, "recap": false, "pairs": []}, "evidence": {"id": 9828, "timestamp": "2026-11-23T09:59:32+00:00", "text": "What are we buying bros?", "reply_to": null, "reply_text": "", "links": [], "fingerprint": "737819771c116d00b6d5b6df0c36f7beabf5b6f9aa613a449d6e6a5a2effcc09", "edited": false, "media_flags": {"photo": false, "video": false, "unsupported": false}}, "age_seconds": 53.05472683906555, "fresh_entry_eligible": true}
 {"time": "2026-11-23T05:00:25.591697-05:00", "kind": "skip_or_pending_link", "id": 9828, "reason": "no_unambiguous_fresh_whitelisted_action"}
 {"time": "2026-11-23T05:01:26.455753-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9828}
+{"time": "2026-11-23T05:02:26.993912-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9828}
+{"time": "2026-11-23T05:03:27.523748-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9828}
+{"time": "2026-11-23T05:04:28.060000-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9828}
+{"time": "2026-11-23T05:05:28.610822-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9828}
+{"time": "2026-11-23T05:06:29.594418-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9828}
