@@ -64,3 +64,6 @@ Local JSONL alerts only. Supervisor is not reboot-persistent.
 - 24 Nov 2026 10:53 Bogota: 0 trades in 24h, 0W/0L, P&L $0.00, equity $25.00. No losses to target, so v4 kept unchanged (no version bump).
   Evidence: 691 scans, 29 raw breakout candidates, none passed the entry gates; skip reasons still not committed, so no evidence supports loosening any gate.
   Uptime: gap 23:04-01:37 Bogota, and no run at all from 07:22 to 10:45 Bogota (run 45341764824 ended, no hourly cron run queued behind it). Re-dispatched sims.yml as run 45429168762; fresh heartbeat 10:46 Bogota, all 3 sims alive.
+- 25 Nov 2026 10:50 Bogota: 0 trades in 24h, 0W/0L, P&L $0.00, equity $25.00. No losses to target, so v4 kept unchanged (no version bump).
+  Evidence: 922 scans, 26 raw breakout candidates, none passed the entry gates; skip reasons still not committed, so no evidence supports loosening any gate.
+  Uptime gaps in committed scans: 16:30-22:16 (24 Nov) and 04:02-06:54 Bogota. Latest run 45608734590 alive, heartbeat 10:47 Bogota.
