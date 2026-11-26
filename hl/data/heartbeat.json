@@ -1,7 +1,7 @@
 {
  "strategy": "scalp_momentum_v4",
- "ts": "2026-11-25 23:00:57 -05",
- "t": 1795665657.64614,
+ "ts": "2026-11-25 23:06:02 -05",
+ "t": 1795665962.7993608,
  "pid": 2450,
  "equity": 25.0,
  "cash": 25.0,
@@ -12,8 +12,8 @@
  "entries_24h": 0,
  "completed_24h": 0,
  "win_rate_24h": null,
- "last_scan_completed": "2026-11-25 23:00:17 -05",
- "scan_age_s": 40.0,
+ "last_scan_completed": "2026-11-25 23:05:17 -05",
+ "scan_age_s": 45.0,
  "last_scan_universe": [
   "BTC",
   "ETH",
@@ -29,6 +29,6 @@
  "entry_hours": "24/7",
  "reserved_initial_margin": 0,
  "positions": [],
- "last_scan_bar_utc": "2026-11-26T04:00:00+00:00",
+ "last_scan_bar_utc": "2026-11-26T04:05:00+00:00",
  "status": "ok"
 }
