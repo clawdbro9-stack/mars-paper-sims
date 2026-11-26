@@ -10452,3 +10452,8 @@
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795650792.105, "ts": "2026-11-25 18:53:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
 {"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795650852.126, "ts": "2026-11-25 18:54:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
 {"candidates": [["ZEC", 2.42], ["NEAR", 2.1]], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795650912.147, "ts": "2026-11-25 18:55:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
+{"candidates": [["HYPE", 1.51], ["ZEC", 2.67]], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795650972.449, "ts": "2026-11-25 18:56:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
+{"candidates": [["NEAR", 1.21]], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795651032.768, "ts": "2026-11-25 18:57:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795651092.927, "ts": "2026-11-25 18:58:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795651152.949, "ts": "2026-11-25 18:59:12 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
+{"candidates": [], "entries_24h": 0, "equity": 25.0, "event": "scan", "n": 7, "t": 1795651217.971, "ts": "2026-11-25 19:00:17 -05", "universe": ["BTC", "ETH", "HYPE", "ZEC", "SOL", "NEAR", "XRP"]}
