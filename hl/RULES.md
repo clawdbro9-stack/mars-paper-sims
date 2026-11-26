@@ -67,3 +67,6 @@ Local JSONL alerts only. Supervisor is not reboot-persistent.
 - 25 Nov 2026 10:50 Bogota: 0 trades in 24h, 0W/0L, P&L $0.00, equity $25.00. No losses to target, so v4 kept unchanged (no version bump).
   Evidence: 922 scans, 26 raw breakout candidates, none passed the entry gates; skip reasons still not committed, so no evidence supports loosening any gate.
   Uptime gaps in committed scans: 16:30-22:16 (24 Nov) and 04:02-06:54 Bogota. Latest run 45608734590 alive, heartbeat 10:47 Bogota.
+- 26 Nov 2026 10:52 Bogota: 0 trades in 24h, 0W/0L, P&L $0.00, equity $25.00. No losses to target, so v4 kept unchanged (no version bump).
+  Evidence: 949 scans, 61 raw breakout candidates listed across scans, none passed the entry gates; skip reasons still not committed, so no evidence supports loosening any gate.
+  Uptime gaps in committed scans: 12:39-15:53 and 21:38-22:19 (25 Nov), 04:04-08:23 Bogota. Latest run 45828652489 alive, heartbeat 10:46 Bogota.
