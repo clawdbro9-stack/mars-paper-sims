@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-25T21:01:40.518145-05:00",
+  "time": "2026-11-25T21:06:43.802598-05:00",
   "pid": 2461,
   "mode": "forward_paper_only",
   "cash": 25.0,
@@ -9,15 +9,15 @@
   "positions": 0,
   "seen": 49,
   "preview_ok": true,
-  "last_preview": 1795658500.1646776,
+  "last_preview": 1795658803.4787655,
   "probe": {
-    "time": "2026-11-25T21:01:40.517514-05:00",
+    "time": "2026-11-25T21:06:43.801985-05:00",
     "market": {
       "price": 0.002431,
       "liquidity": 273338.26,
-      "volume": 270476.63,
+      "volume": 270466.21,
       "pool": "FJk9sajdc2Q4heRPPu3yLzkmf2ZByZkpiHQLv9e2bn5A",
-      "observed": 1795658500.2261202,
+      "observed": 1795658803.5087845,
       "freshness": "request-time only; provider quote timestamp unavailable"
     },
     "safety_errors": [],
