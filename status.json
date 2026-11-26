@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26 14:08:28 -05",
- "runner": "state sync",
+ "updated": "2026-11-26 14:09:01 -05",
+ "runner": "state: run ended, handing off",
  "run_url": "https://github.com/clawdbro9-stack/mars-paper-sims/actions/runs/45828652489",
  "hl": {
-  "supervisor_alive": true,
-  "bot_alive": true,
+  "supervisor_alive": false,
+  "bot_alive": false,
   "strategy": "scalp_momentum_v4",
   "ts": "2026-11-26 14:08:26 -05",
   "equity": 25.0,
@@ -19,8 +19,8 @@
   "positions": []
  },
  "tg": {
-  "supervisor_alive": true,
-  "sim_alive": true,
+  "supervisor_alive": false,
+  "sim_alive": false,
   "time": "2026-11-26T14:08:27.600630-05:00",
   "cash": 25.0,
   "net_equity_estimated": 25.0,
