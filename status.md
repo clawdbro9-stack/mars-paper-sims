@@ -1,8 +1,8 @@
 # mars paper sims (PAPER only)
-updated: 2026-11-26 22:30:09 -05 · runner: state sync · [run](https://github.com/clawdbro9-stack/mars-paper-sims/actions/runs/45906399018)
+updated: 2026-11-26 22:35:11 -05 · runner: state sync · [run](https://github.com/clawdbro9-stack/mars-paper-sims/actions/runs/45906399018)
 
 | sim | alive | equity | trades | last beat |
 |---|---|---|---|---|
-| hyperliquid scalp_momentum_v4 | True | $25.0 | 0 (0W/0L) | 2026-11-26 22:30:08 -05 (scan 2026-11-26 22:29:13 -05) |
-| tg mrpunk v4 | True | $25.0 | 0 entries, 0 open | 2026-11-26T22:30:07.941746-05:00 |
-| macro macro_social_arb_v1 | True | $25.0 | 0 (0W/0L), 0 open | 2026-11-26 22:29:42 -05 (preview 2026-11-26 22:29:42 -05, ok=True) |
+| hyperliquid scalp_momentum_v4 | True | $25.0 | 0 (0W/0L) | 2026-11-26 22:35:08 -05 (scan 2026-11-26 22:34:13 -05) |
+| tg mrpunk v4 | True | $25.0 | 0 entries, 0 open | 2026-11-26T22:35:10.694617-05:00 |
+| macro macro_social_arb_v1 | False | $25.0 | 0 (0W/0L), 0 open | 2026-11-26 22:35:09 -05 (preview 2026-11-26 22:35:09 -05, ok=True) |
