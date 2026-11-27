@@ -13214,3 +13214,8 @@
 {"time": "2026-11-27T18:05:46.861060-05:00", "kind": "start", "rules": {"experimental": true, "bankroll": 25, "bet_total_cost": 6, "reserve": 7, "max_positions": 3, "max_coin_cumulative": 9, "initial_stop": 0.5, "first_partial_at": 1.5, "first_fraction": 0.3333333333333333, "trail": 0.2, "recover_at": 2, "second_at": 3, "second_fraction": 0.2, "significant_runner_value": 6, "significant_fraction": 0.5, "preview_seconds": 60, "new_monitor_seconds": 15, "mature_monitor_seconds": 60, "mature_after_seconds": 3600, "fee": 0.003, "slippage": 0.01, "gas_usd": 0.01, "min_liquidity": 100000, "min_volume24": 10000, "max_top1": 0.1, "max_top10": 0.4, "max_quote_age_seconds": 30, "max_new_post_age_seconds": 120, "adds_enabled": false, "all_in_enabled": false, "global_loss_limit": null}, "version": 4}
 {"time": "2026-11-27T18:05:47.336181-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9833}
 {"time": "2026-11-27T18:06:48.115159-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9833}
+{"time": "2026-11-27T18:07:48.597326-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9833}
+{"time": "2026-11-27T18:08:49.078008-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9833}
+{"time": "2026-11-27T18:09:49.563198-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9833}
+{"time": "2026-11-27T18:10:50.046551-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9833}
+{"time": "2026-11-27T18:11:50.899554-05:00", "kind": "preview_delivery", "count": 20, "newest_id": 9833}
